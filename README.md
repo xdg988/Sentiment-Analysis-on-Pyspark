@@ -43,8 +43,7 @@ There are two choices here, for clients wanting higher accuracy or faster speed:
 
 ## 1.3 Project’s website
 
-Open Sentiment Analysis on Yelp.html in the “web” fold. There are four main functions about our web as following. We can visit the Spark monitor web interface by Spark link, visit the Ganglia web interface by Ganglia link, visit the Hadoop resource manager web interface by Hadoop link. If we want to download the predicted result, we can click the Output link.
-<img src="1.png" width="40%">
+Open Sentiment Analysis on Yelp.html in the “web” fold. There are four main functions about our web as following. You can visit the Spark monitor web interface by Spark link, visit the Ganglia web interface by Ganglia link, visit the Hadoop resource manager web interface by Hadoop link. If you want to download the predicted result, you can click the Output link.
 
 # 2. For Clients in statement 1
 
