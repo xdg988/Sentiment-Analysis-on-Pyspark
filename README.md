@@ -1,7 +1,7 @@
 
 # Sentiment-Analysis-on-Pyspark
 
-* I have to admit that it is hard to run our code in your machine. Because all this things are done on our university's powerful machines and all the configurations(like Hadoop and Spark) are deployed during the course. We just want to record what our group has done and successfully finished this hard project. For all detail information, please refer to our report PPT. *
+_I have to admit that it is hard to run our code in your machine. Because all this things are done on our university's powerful machines and all the configurations(like Hadoop and Spark) are deployed during the course. We just want to record what our group has done and successfully finished this hard project. For all detail information, please refer to our report PPT. _
 
 This is a course project about cluster and cloud computing. The whole process trains a simple machine learning model for sentiment classification task on Spark.
 
